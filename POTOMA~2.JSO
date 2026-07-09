@@ -1,0 +1,266 @@
+{
+    "client": {
+        "name": "POTOMAC BOAT RENTALS",
+        "short_name": "Potomac Boat Rentals",
+        "industry": "Recreational boat, kayak, and paddleboard rentals on the Potomac River",
+        "website": "https://www.potomacboatrentals.com",
+        "contact_email": "patrick.yeh@pbrboatrentals.com",
+        "contact_phone": "703-677-1357",
+        "service_area": "Woodbridge, Virginia and the greater Northern Virginia / Potomac River area",
+        "audience": "Primary: fishing enthusiasts and recreational boaters looking for a private, flexible day on the Potomac River. Secondary: bachelor and bachelorette parties, birthday celebrations, corporate outings, team-building groups, and casual group outings. Mostly families, couples, friend groups, and coworkers in and around Woodbridge and Northern Virginia seeking an easy, local outdoor experience.",
+        "tone": "Friendly, simple, inviting, local, upbeat, and clear. Not corporate. Experience-first, not rental-first. Makes getting out on the water feel easy and close to home. Short, warm copy that invites people to plan a weekday or weekend on the river.",
+        "positioning_statement": "A private, flexible outdoor experience on the Potomac River for friends, families, coworkers, fishing groups, and recreational boaters. Located at Hampton's Landing Marina in Woodbridge, Virginia, Potomac Boat Rentals offers pontoon, kayak, paddleboard, and jon boat rentals for exploring the Potomac River, Neabsco Creek, and surrounding wetlands.",
+        "services": [
+            {
+                "id": "pontoon",
+                "name": "Pontoon Boat Rentals",
+                "description": "Spacious pontoon rentals for cruising the Potomac River with friends, family, or groups. Half-day $550, full-day $850 (all days). Reservation-based."
+            },
+            {
+                "id": "kayak",
+                "name": "Kayak Rentals",
+                "description": "Single and double kayaks for peaceful exploration of Neabsco Creek, the Julie J. Metz Wetlands Preserve, Leesylvania State Park, and Featherstone National Wildlife Refuge. Single $25/hr, double $30/hr. First come, first served, no reservation needed; large groups should call ahead."
+            },
+            {
+                "id": "paddleboard",
+                "name": "Stand-Up Paddleboard (SUP) Rentals",
+                "description": "Stand-up paddleboards for exploring the calm waters of Neabsco Creek and its wetlands. $30/hr. First come, first served, no reservation needed; large groups should call ahead."
+            },
+            {
+                "id": "jonboat",
+                "name": "Jon Boat Rentals",
+                "description": "Jon boat rentals for fishing and exploring local creeks and shoreline. Contact for current pricing."
+            }
+        ],
+        "trust_pillars": [
+            "Located at Hampton's Landing Marina, a full-service marina on historic Neabsco Creek",
+            "Local, family-friendly gateway to the Potomac River",
+            "Direct access to Neabsco Creek, Leesylvania State Park, Julie J. Metz Wetlands, and Featherstone National Wildlife Refuge",
+            "Boating lifestyle without the cost or hassle of boat ownership",
+            "Simple booking and easy, relaxed outdoor experiences close to home"
+        ],
+        "differentiators": [
+            "Private, flexible time on the water: your own boat, your own group, your own pace",
+            "Pontoons for groups plus first-come, first-served kayaks and paddleboards for spontaneous trips",
+            "Prime location for fishing and wildlife viewing on Neabsco Creek and the Potomac",
+            "Local Woodbridge marina, an easy outdoor escape minutes from Northern Virginia"
+        ],
+        "social_proof": {
+            "testimonials": [],
+            "stats": [],
+            "notable_clients": []
+        },
+        "founder": {
+            "name": "Patrick",
+            "role": "",
+            "background": "",
+            "story": ""
+        }
+    },
+    "credentials": {
+        "linkedin_access_token": "",
+        "facebook_access_token": "EAAfKbeMmB9IBRZBc9ZA5fFS5Xdy6lWBjIi1aj7P1OoFlBqzG1OOWHIwoD0v5ZCNgaNGCb0TKdM593zfTWgALMt6nCBdsNy9q6sOaaENZCYvGIEQnrJd99ZBP6p3PwloA1ds9F4fPZAYqVXZB7gZC70J4VagcIL9dvporBSdFc6BVwZA6uQOawocAlIcq72B7tr7lyIBusHwRV",
+        "instagram_access_token": "EAAfKbeMmB9IBRZBc9ZA5fFS5Xdy6lWBjIi1aj7P1OoFlBqzG1OOWHIwoD0v5ZCNgaNGCb0TKdM593zfTWgALMt6nCBdsNy9q6sOaaENZCYvGIEQnrJd99ZBP6p3PwloA1ds9F4fPZAYqVXZB7gZC70J4VagcIL9dvporBSdFc6BVwZA6uQOawocAlIcq72B7tr7lyIBusHwRV"
+    },
+    "platforms": {
+        "linkedin": {
+            "enabled": false,
+            "org_id": ""
+        },
+        "facebook": {
+            "enabled": true,
+            "page_id": "1102525196288154"
+        },
+        "instagram": {
+            "enabled": true,
+            "account_id": "17841422915071326"
+        }
+    },
+    "captions": {
+        "voice_rules": [
+            "Keep it friendly, simple, and upbeat. Short sentences. No corporate or salesy language.",
+            "Lead with the experience and the feeling (easy day outside, time with friends/family, quiet water) before mentioning the rental itself.",
+            "Use local framing: Woodbridge, Northern Virginia, the Potomac River, Neabsco Creek, Hampton's Landing Marina.",
+            "Prioritize fishing and recreational boating content. Periodically rotate in secondary audiences (bachelor/bachelorette parties, birthdays, corporate outings, team-building, group trips).",
+            "Actively encourage WEEKDAY trips. Frame weekdays as quieter water, easier launches, and a calmer experience. Driving weekday demand is a core goal.",
+            "For pontoon rentals, CTAs may direct to the website to reserve/book.",
+            "For kayak and paddleboard rentals, do NOT say 'reserve' or 'book now'. These are first come, first served with no reservation needed. Say 'just show up' and note that large groups should call ahead.",
+            "Name real destinations when relevant: Neabsco Creek, Leesylvania State Park, Julie J. Metz Wetlands Preserve, Featherstone National Wildlife Refuge.",
+            "Respect the season: Potomac Boat Rentals operates roughly April through early November. Do not promote rentals as available in the off-season.",
+            "Never use an em dash or a double hyphen (— or --) anywhere in a caption. Use a period, comma, or colon instead.",
+            "Hashtags: treat the hashtags list as a pool, not a fixed block. Pick up to 6 per post that actually match the post's content, mixing 2-3 brand/local tags (#PotomacBoatRentals, #Woodbridge, #NeabscoCreek) with 2-3 broad-reach tags (#BoatLife, #Fishing, #Kayaking, #GetOutside). A fishing post gets #BassFishing, not #Paddleboarding."
+        ],
+        "compliance": {
+            "avoid": [
+                "corporate or stiff B2B language",
+                "promising specific fish catches or guaranteed wildlife sightings",
+                "telling people to 'reserve' or 'book' kayaks or paddleboards (those are first come, first served)",
+                "promoting rentals during the closed off-season (roughly November to mid-April)",
+                "overly AI-generated or generic stock-looking phrasing",
+                "em dashes or double hyphens (— or --) anywhere in a caption"
+            ],
+            "required_phrasing": []
+        },
+        "hashtags": [
+            "#PotomacBoatRentals",
+            "#PotomacRiver",
+            "#Woodbridge",
+            "#NorthernVirginia",
+            "#NeabscoCreek",
+            "#BoatRental",
+            "#BoatLife",
+            "#PontoonLife",
+            "#PontoonBoat",
+            "#LakeLife",
+            "#RiverLife",
+            "#OnTheWater",
+            "#Fishing",
+            "#BassFishing",
+            "#Kayaking",
+            "#Paddleboarding",
+            "#GetOutside",
+            "#OptOutside",
+            "#SummerVibes",
+            "#DMV",
+            "#LoveVA",
+            "#VisitVirginia"
+        ],
+        "cta_rotation": [
+            "Plan your day on the water: potomacboatrentals.com",
+            "Pontoons book up. Reserve yours at potomacboatrentals.com",
+            "Kayaks & paddleboards are first come, first served, so just show up! (Big group? Call ahead: 703-677-1357)",
+            "Beat the weekend rush. Grab a weekday spot on the river.",
+            "Link in bio to plan your trip.",
+            "Questions or group bookings? Call 703-677-1357."
+        ],
+        "human_examples": [
+            "Water's finally warm. Kayaks go out at 9, first come first served. No need to call ahead unless you're rolling deep.",
+            "Caught the morning calm on Neabsco Creek today. This is the stuff you don't get on a Saturday afternoon.",
+            "Pontoon's open this weekend. Bring the cooler, bring the people, we'll handle the rest.",
+            "Weekday on the river > weekend on the river. Quieter water, easier launch, and you're not fighting for a parking spot. Just saying.",
+            "Featherstone refuge is wide open right now. Herons everywhere. Grab a paddleboard and go see for yourself.",
+            "Birthday? Bachelor thing? Just a Tuesday you wanted to make better? Pontoon fits 'em all.",
+            "Half the fun is the not-planning. Show up, grab a kayak, figure out the rest on the water.",
+            "Sun's out. We're open till 5. You know where to find us: Hampton's Landing."
+        ],
+        "anti_patterns": [
+            "Opening with 'Looking for...' or any question-as-hook setup",
+            "'we've got you covered', 'look no further', 'the perfect way to', 'unforgettable', 'memories that last', 'dive in', 'make a splash', 'your one-stop'",
+            "Rule-of-three adjective lists ('fun, easy, and relaxing')",
+            "Decorative emoji placed one-per-line; max one emoji per post, often zero",
+            "Every sentence the same length or balanced clauses; vary length, allow fragments",
+            "Ending every post with a CTA; some posts are just an observation",
+            "Generic nouns where a specific one exists ('the water' -> 'Neabsco Creek'; 'your group' -> 'the crew')",
+            "Hashtag stacks longer than ~6, or hashtags unrelated to the actual post"
+        ],
+        "caption_patterns": {
+            "recreational_boating": "An easy day on the Potomac is closer than you think. Grab a pontoon, gather your crew, and spend the day cruising Neabsco Creek and the river. Plan your day: potomacboatrentals.com",
+            "fishing": "Quiet water, good fishing, no boat to own. Launch from Hampton's Landing and work the creeks and shoreline of the Potomac. Weekdays are calmest, so come find your spot.",
+            "kayak_sup": "No plans, no reservation, no problem. Our single and double kayaks and paddleboards are first come, first served. Just show up and explore Neabsco Creek. Big group? Give us a call.",
+            "weekday_push": "Skip the weekend crowds. Weekdays on the Potomac mean quieter water, easier launches, and the river mostly to yourself. Make a weekday plan.",
+            "group_event": "Birthdays, bachelor and bachelorette parties, team outings: a pontoon on the Potomac makes it easy. Gather the group and we'll get you on the water.",
+            "local_outdoors": "Right here in Woodbridge, an easy outdoor escape is waiting. Spend a few hours on the Potomac without the drive or the hassle."
+        },
+        "faqs": [
+            {
+                "question": "Do I need a reservation?",
+                "answer": "Pontoons are reservation-based, so book ahead on our website. Kayaks and paddleboards are first come, first served, so you can just show up. For large groups, call ahead at 703-677-1357 so we can get ready for you."
+            },
+            {
+                "question": "What can I rent?",
+                "answer": "Pontoon boats, single and double kayaks, stand-up paddleboards, and jon boats: everything you need for a day on the Potomac and Neabsco Creek."
+            },
+            {
+                "question": "How much does it cost?",
+                "answer": "Half-day pontoon is $550 and full-day is $850. Single kayaks are $25/hr, double kayaks and paddleboards are $30/hr. Call for jon boat pricing."
+            },
+            {
+                "question": "When are you open?",
+                "answer": "Tuesday through Sunday, 9:00am to 5:00pm, from mid-April through late fall. We're a seasonal, weather-dependent business."
+            },
+            {
+                "question": "Where are you located?",
+                "answer": "At Hampton's Landing Marina, 16205 Neabsco Road, Woodbridge, VA 22191, on historic Neabsco Creek just off the Potomac River."
+            },
+            {
+                "question": "Where can I explore?",
+                "answer": "Neabsco Creek, the Julie J. Metz Wetlands Preserve, Leesylvania State Park, and the Featherstone National Wildlife Refuge, all great for fishing, wildlife viewing, and a quiet paddle."
+            }
+        ]
+    },
+    "images": {
+        "visual_style": {
+            "industry_plain": "boat, kayak, and paddleboard rental business on the Potomac River and Neabsco Creek in Woodbridge, Virginia, with pontoons, kayaks, and stand-up paddleboards on the water",
+            "scene_guidance": "Generate a unique, specific one-line scene description for EACH post, framed as a candid photo someone actually took on their phone that day, never a staged or cinematic shot. Vary across: SETTING (open Potomac River, calm Neabsco Creek, marina dock at Hampton's Landing, wetlands shoreline, near Leesylvania State Park, a quiet cove, the launch ramp), TIME OF DAY (early morning calm, golden-hour sun, bright midday, warm late afternoon, sunset on the water), SUBJECT (a family on a pontoon, a couple paddling a double kayak, friends laughing on a pontoon, a solo angler fishing from a jon boat, a paddleboarder gliding through still water, kayaks lined up at the dock, a group loading up for the day), CAMERA ANGLE (mid-distance group shot on the pontoon with water and shoreline around them, wide shot from the dock with the marina in frame, over-the-shoulder from the boat, low angle from water level, close-up on hands paddling or a fishing rod, candid mid-laugh group shot from a few feet back, occasional arm's-length selfie). PEOPLE RULE: any person must be clearly visible, in focus, and well lit at a natural mid-range distance: near enough that the face has real definition (never blurred, melted, or featureless, even at a distance), far enough that the person never fills the frame. Prefer environment-rich compositions over portraits; tight close-up face portraits are the fastest way to look AI-generated and are banned, as are people rendered as tiny distant specks. PLACE ANCHORS: ground most scenes in a recognizable piece of the real business when the setting allows: weathered dock boards, the Hampton's Landing marina docks in the background, Potomac Boat Rentals signage or the branded pontoon panel, a branded staff shirt, the colorful kayak rack. PEOPLE STYLE: natural-looking, slightly fit adults (never overly muscular, unusually athletic, or obese); in group scenes keep roughly a 2:1 female-to-male ratio; summer clothing that says warm weather (t-shirts, tank tops, shorts, sundresses, caps, sunglasses); expressions are relaxed easy smiles, mid-conversation warmth, or quiet contentment, NEVER exaggerated open-mouth laughing (synchronized big laughs read robotic). LIFE JACKETS: people do not wear them; instead show bright orange life jackets stowed naturally somewhere on the boat (draped over a rail, resting on a seat, hung near the helm). SUMMER RULE: every scene must read unmistakably as high summer: lush green foliage and marsh grass, warm light, summer clothing; the marina and water should feel alive and welcoming (other boats, gear, background activity), never empty or abandoned. Morning mist and golden-hour backlight are welcome atmosphere; soft overcast is allowed only if the scene still feels warm, green, and inviting. Never repeat the same setting + subject + angle combination across the last 5 posts.",
+            "scenes_to_avoid": "no rough or stormy water, no obviously AI-generated or plastic-looking people, no airbrushed or poreless skin, no tight close-up face portraits (the person must never fill the frame), no exaggerated open-mouth laughing on every face, no people wearing life jackets (stow them visibly on the boat instead), no cinematic or stock-photo color grading, no perfectly symmetrical or overly composed shots, no tiny distant or blurred people as the main subject, no winter or off-season scenes, no brown dead marsh grass or bare trees, no abandoned-looking empty marina, no crowded party-boat chaos, no oversaturated artificial colors",
+            "color_palette": "natural sunny outdoor colors exactly as a phone camera would capture them: blue water, green shoreline, warm sunlight, clear skies; true to life, never oversaturated or filter-looking",
+            "mood_modifier": "relaxed, fun, and easy, the feeling of an effortless local day outside on the water; hyper-realistic candid smartphone-photo quality with the small imperfections of a real photo: natural skin texture, mild phone-camera lens distortion, slight grain, a not-quite-level horizon, casual imperfect framing, and atmospheric depth as the main realism signal: low morning mist on the water, golden-hour backlight with a blown-out sun and lens flare, or soft overcast flatness, the way a friend's photo from a day on the river actually looks"
+        },
+        "logo": {
+            "url": "",
+            "file": null,
+            "description": ""
+        },
+        "colors": {
+            "primary": {
+                "background": "#0e3a5f",
+                "accent": "#1aa0c4"
+            }
+        }
+    },
+    "topic_generation": {
+        "buckets": [
+            "Fishing on the Potomac and Neabsco Creek (primary audience: jon boats, quiet spots, wildlife)",
+            "Recreational boating / pontoon day on the river (primary audience: cruising, family and friends)",
+            "Kayak & paddleboard exploration (first come, first served: wetlands, creek, no reservation)",
+            "Weekday push / beat-the-crowds (Seasonal Growth: drive weekday demand with quiet-water framing)",
+            "Group & event outings (secondary: birthdays, bachelor/bachelorette parties, corporate and team-building)",
+            "Local destinations & scenery (Leesylvania State Park, Metz Wetlands, Featherstone Refuge, Woodbridge local pride)",
+            "Customers in action / experience moments (real-feeling shots of people enjoying the water)"
+        ],
+        "seasonal_beats": [
+            "Season opening / spring kickoff (mid-April to May)",
+            "Early summer weekends and warm-weather ramp-up (June)",
+            "Peak summer on the water (July-August)",
+            "Holiday weekends: Memorial Day, Fourth of July, Labor Day",
+            "Fall on the river / season wind-down (September to early November)"
+        ]
+    },
+    "schedule": {
+        "timezone": "America/New_York",
+        "cadence": "Weekly: Instagram 3 posts + 5 stories per week, Facebook 4 posts per week. Approval before publishing during launch phase.",
+        "preferred_times": {
+            "linkedin": "",
+            "facebook": "Wednesday 10:00",
+            "instagram": "Thursday 11:00"
+        }
+    },
+    "links": {
+        "website": "https://www.potomacboatrentals.com",
+        "instagram": "https://www.instagram.com/pbr_boat_rentals/",
+        "booking": "https://www.potomacboatrentals.com",
+        "email": "mailto:patrick.yeh@pbrboatrentals.com",
+        "phone": "tel:+17036771357"
+    },
+    "offers": {
+        "active": []
+    },
+    "conversion": {
+        "goal": "Drive bookings via the website, with a specific focus on increasing weekday rentals during the April–November season",
+        "booking_url": "https://www.potomacboatrentals.com",
+        "utm_convention": {
+            "source": "",
+            "medium": "social",
+            "campaign": "pbr_seasonal"
+        }
+    },
+    "analytics_source": "",
+    "review": {
+        "platform": "Google",
+        "google_review_link": "https://search.google.com/local/writereview?placeid=ChIJuS-xxEf_tokR_MHChjc84JQ"
+    },
+    "email": {
+        "subject": "Hope you had a great time on the water! 🚤",
+        "html_template": "<p>Hi {{first_name}},</p>\n\n<p>Thanks so much for choosing Potomac Boat Rentals! We hope your {{rental_type}} rental was a blast and that you got to enjoy everything the Potomac has to offer.</p>\n\n<p>If you have a spare moment, we'd really appreciate it if you could leave us a quick Google review. It means the world to a small business like ours and helps other boaters find us:</p>\n\n<p style=\"font-size:16px;\">👉 <a href=\"https://search.google.com/local/writereview?placeid=ChIJuS-xxEf_tokR_MHChjc84JQ\">Leave a Review</a></p>\n\n<p>Thanks again, hope to see you back on the water soon!</p>"
+    }
+}
